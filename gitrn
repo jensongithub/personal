@@ -1,0 +1,6 @@
+#!/bin/bash
+tag="[RNote]"
+#usage: gitrn "message"
+
+
+echo "git commit -m $tag $1"
